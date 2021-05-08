@@ -2,7 +2,10 @@
 
 ## Welcome to my GitHub Pages Page!
 
+### C++ Example
+
 '''C++
+
 #include "RIMS.h"
 
 unsigned char GetBit(unsigned char x, unsigned char k) {
@@ -23,4 +26,4 @@ void main()
       B = cnt; 
    }
 }
-
+'''
