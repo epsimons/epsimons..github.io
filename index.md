@@ -4,7 +4,7 @@
 
 ### C++ Example
 
-'''C++
+'''cpp
 
 #include "RIMS.h"
 
