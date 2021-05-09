@@ -4,7 +4,7 @@
 
 ### C++ Example
 
-'''cpp
+```cpp
 
 #include "RIMS.h"
 
@@ -26,4 +26,4 @@ void main()
       B = cnt; 
    }
 }
-'''
+```
