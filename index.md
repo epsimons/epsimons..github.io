@@ -85,8 +85,8 @@ clientName = "gz_to_xz_log_records"
 collectionName = "gz_to_xz"
 timeNow = datetime.datetime.now()
 
-db = client[ clientName ] # makes a test database called "testdb"
-col = db[ collectionName ] #makes a collection called "testcol" in the "testdb"
+db = client[ clientName ] 
+col = db[ collectionName ] 
 
 def db_logging_function(data):
     myTime = datetime.datetime.now()
