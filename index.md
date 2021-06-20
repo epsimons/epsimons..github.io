@@ -1,29 +1,9 @@
 # Ethan Simons
+## CS-499-T5476 Computer Science Capstone 21EW5
 
-## Welcome to my GitHub Pages Page!
 
-### C++ Example
+### About me 
 
-```cpp
 
-#include "RIMS.h"
-
-unsigned char GetBit(unsigned char x, unsigned char k) {
-   return ((x & (0x01 << k)) != 0);
-}
-
-void main()
-{
-   unsigned char i;
-   unsigned char cnt;
-   while (1) {
-      cnt=0;
-      for (i=0; i<8; i++) {
-         if (GetBit(A, i)) {
-            cnt++;
-         }
-      }
-      B = cnt; 
-   }
-}
-```
+<img src="\me.jpg" alt="Ethan" style="height: 100px; width:100px;float:left;margin: 5px;"/>
+My name is Ethan Simons and I am a software developer. I currently work for a private company utilizing C# and the .net framework. 
