@@ -22,13 +22,3 @@ https://github.com/epsimons/Python/blob/main/gz_to_xz_converter_V3.0.2.py
 Video of software:
 
 https://youtu.be/ETi62wgwrhM
-
-
-
-
-<html>
-  <body>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ETi62wgwrhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </body>
-  </html>
-
